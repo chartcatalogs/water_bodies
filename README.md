@@ -8,4 +8,4 @@ The original data provided to Esri by Garmin International, redistribution right
 
 ## HydroLAKES_polys_v10_shp.zip
 
-The HydroLAKES database is licensed under a Creative Commons Attribution (CC-BY) 4.0 International License. See https://www.hydrosheds.org/products/hydrolakes fro more information.
+The HydroLAKES database is licensed under a Creative Commons Attribution (CC-BY) 4.0 International License. See https://www.hydrosheds.org/products/hydrolakes for more information.
